@@ -33,9 +33,12 @@
 			<div class="container">
 				<div class="jumbotron">
 					<h1 class="display-4">Pandas!!</h1>
-					<p class="lead">Talk about random stuff! I mean, Wow!</p>
+					<p class="lead">Space for sale. Contact us for more info about taco-eating kittens</p>
 					<hr class="my-4">
-					<p>Space for sale. Contact us at 555-0938 for more info about taco-eating kittens.</p>
+					<blockquote class="blockquote">
+						<p class="mb-0">It is said that the greatest privilage a man can have is to own a flying pig</p>
+						<footer class="blockquote-footer">Sir William T. Aco in <cite title="Source Title">Taco Bear: Myth or Legend?</cite></footer>
+					</blockquote>
 					<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
 				</div>
 			</div>
