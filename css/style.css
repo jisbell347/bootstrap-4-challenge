@@ -6,7 +6,7 @@ Styles the jumbotron
 	background: url("https://s.hswstatic.com/gif/bear-spray-2.jpg"), center;
 	background-size: cover;
 	background-repeat: no-repeat;
-	color: #e6e6e6;
+	color: #ffffff;
 	font-family: 'Indie Flower', cursive;
 	text-shadow: 1px 5px 5px rgba(0,0,0,0.9);
 }
@@ -14,7 +14,7 @@ Styles the jumbotron
 styles to blockquote inside the jumbotron
  */
 .blockquote-footer {
-	color: #e6e6e6;
+	color: #ffffff;
 }
 
 /*
