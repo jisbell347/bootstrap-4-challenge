@@ -41,7 +41,7 @@
 					<a class="btn btn-dark btn-lg" href="#" role="button">Learn more</a>
 				</div>
 			</div>
-			<hr class="featurette-divider">
+			<hr class="feature-divider">
 			<div class="container truth">
 				<div class="row text-center">
 					<h2 class="col-md-12 pb-2">The Truth About Taco Bears <img src="images/paw-print.png" alt="paw print icon"></h2>
@@ -60,7 +60,7 @@
 					</div>
 				</div>
 			</div>
-			<hr class="featurette-divider">
+			<hr class="feature-divider">
 			<div class="container text-center">
 				<div class="row text-center">
 					<h2 class="col-md-12 pb-4">Little Known Facts</h2>
