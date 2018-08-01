@@ -1,16 +1,44 @@
+/*
+Styles the jumbotron
+ */
+
 .jumbotron {
 	background: url("http://wallpaperesque.com/wp-content/uploads/plixpapers1505/bear_wallpaper_background_3282.jpg"), center;
 	background-size: cover;
 	background-repeat: no-repeat;
-	color: white;
+	color: #4a4a4a;
 	font-family: 'Indie Flower', cursive;
 	text-shadow: 1px 5px 5px rgba(0,0,0,0.9);
 }
-
+/*
+styles to blockquote inside the jumbotron
+ */
 .blockquote-footer {
-	color: white;
+	color: #313131;
 }
 
+/*
+Styles all btn-drk elements
+ */
 .btn-dark {
 	background-color: rgba(0,0,0, 0.5);
+}
+/*
+Section divider
+ */
+.featurette-divider {
+	border: none;
+	margin: 5rem 0;
+}
+/*
+Footer
+ */
+
+.footer {
+	background-color: #1d1d1d;
+	color: ghostwhite;
+}
+
+.footer span, a {
+	color: white;
 }
