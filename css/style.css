@@ -3,10 +3,10 @@ Styles the jumbotron
  */
 
 .jumbotron {
-	background: url("http://wallpaperesque.com/wp-content/uploads/plixpapers1505/bear_wallpaper_background_3282.jpg"), center;
+	background: url("https://s.hswstatic.com/gif/bear-spray-2.jpg"), center;
 	background-size: cover;
 	background-repeat: no-repeat;
-	color: #4a4a4a;
+	color: #e6e6e6;
 	font-family: 'Indie Flower', cursive;
 	text-shadow: 1px 5px 5px rgba(0,0,0,0.9);
 }
@@ -14,7 +14,7 @@ Styles the jumbotron
 styles to blockquote inside the jumbotron
  */
 .blockquote-footer {
-	color: #313131;
+	color: #e6e6e6;
 }
 
 /*
@@ -29,6 +29,28 @@ Section divider
 .featurette-divider {
 	border: none;
 	margin: 5rem 0;
+}
+.divider {
+	border-color: white;
+	padding-bottom: 5px;
+	margin: 0;
+}
+
+/**
+Truth about taco bears section
+ */
+.truth {
+	background-color: #343434;
+	color: ghostwhite;
+}
+
+/*
+Facts section
+ */
+
+.fact-text {
+	background-color: #226c6c;
+	color: white;
 }
 /*
 Footer
