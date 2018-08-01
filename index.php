@@ -22,10 +22,10 @@
 			</button>
 			<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 				<div class="navbar-nav float-right">
-					<a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
-					<a class="nav-item nav-link" href="#">Tacos</a>
-					<a class="nav-item nav-link" href="#">Facts</a>
-					<a class="nav-item nav-link" href="#">Contact</a>
+					<a class="nav-item nav-link active" href="#"><img src="images/bear.png" alt="bear icon" /> <span class="sr-only">(current)</span></a>
+					<a class="nav-item nav-link" href="#"><img src="images/taco.png" alt="taco icon" /></a>
+					<a class="nav-item nav-link" href="#"><img src="images/open-book.png" alt="Open Book Icon"/></a>
+					<a class="nav-item nav-link" href="#"><img src="images/whatsapp-logo.png" alt="contact icon"/></a>
 				</div>
 			</div>
 		</nav>
@@ -98,6 +98,12 @@
 				</div>
 			</div>
 		</main>
+		<footer class="footer mt-5">
+			<div class="container text-center">
+				<span class="text-muted">&copy; Taco Bear Sightings, LLC</span>
+				<div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+			</div>
+		</footer>
 	</body>
 
 
