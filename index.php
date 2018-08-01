@@ -42,6 +42,7 @@
 					<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
 				</div>
 			</div>
+			<hr class="featurette-divider">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-4">
@@ -54,6 +55,24 @@
 
 						<p>I’ve been following that taco truck around all day. It’s taco time all the time. Does guac cost extra? Fish tacos with cabbage slaw and a side of chips and guac. Tacos, again? This will be 5 times this week and it’s only Tuesday. I think I’ve overdosed on tacos. It’s taco Tuesday Monday. 50 cent tacos! I’ll take 30. TACOS!! I’ve been following that taco truck around all day.</p>
 					</div>
+				</div>
+			</div>
+			<hr class="featurette-divider">
+			<div class="container text-center">
+				<div class="row">
+					<div class="col-lg-3">
+						<img src="https://kellidgordonlibertyblog.files.wordpress.com/2016/01/bear-soft-taco-sleeping-bags-lol.jpg" alt="Taco Bear Meme" class="rounded-circle pb-3" width="200" height="200">
+						<p class="border border-info">Every day is taco ipsum tuesday. Does guac cost extra? Pico de gallo, on the side please. It’s taco time all the time. Burritos are very tasty. Tacos al pastor made with adobada meat. Yeah, apparently the taco shack was robbed. They left the money but took the tacos. Tacos al pastor made with adobada meat. Give me all the tacos, immediately. Fish tacos: lettuce or cabbage, pico de gallo, avocado and a sour cream or citrus/mayonnaise sauce, all placed on top of a corn or flour tortilla. CARNE ASADA!!</p>
+					</div>
+					<div class="col-lg-3">
+						<img src="https://pbs.twimg.com/profile_images/528635435413942272/MyKc1vpV.jpeg" alt="Taco Bear Meme" class="rounded-circle pb-3" width="200" height="200">
+						<p class="border border-dark">Every day is taco ipsum tuesday. Does guac cost extra? Pico de gallo, on the side please. It’s taco time all the time. Burritos are very tasty. Tacos al pastor made with adobada meat. Yeah, apparently the taco shack was robbed. They left the money but took the tacos. Tacos al pastor made with adobada meat. Give me all the tacos, immediately. Fish tacos: lettuce or cabbage, pico de gallo, avocado and a sour cream or citrus/mayonnaise sauce, all placed on top of a corn or flour tortilla. CARNE ASADA!!</p>
+					</div>
+					<div class="col-lg-3">
+						<img src="https://res.cloudinary.com/teepublic/image/private/s--egrv4_ON--/t_Preview/b_rgb:191919,c_limit,f_jpg,h_630,q_90,w_630/v1496551789/production/designs/1644610_1.jpg" alt="Taco Bear Meme" class="rounded-circle pb-3" width="200" height="200">
+						<p class="border border-secondary">Every day is taco ipsum tuesday. Does guac cost extra? Pico de gallo, on the side please. It’s taco time all the time. Burritos are very tasty. Tacos al pastor made with adobada meat. Yeah, apparently the taco shack was robbed. They left the money but took the tacos. Tacos al pastor made with adobada meat. Give me all the tacos, immediately. Fish tacos: lettuce or cabbage, pico de gallo, avocado and a sour cream or citrus/mayonnaise sauce, all placed on top of a corn or flour tortilla. CARNE ASADA!!</p>
+					</div>
+
 				</div>
 			</div>
 		</main>
