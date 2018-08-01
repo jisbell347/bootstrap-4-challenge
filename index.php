@@ -70,7 +70,7 @@
 						<img src="https://kellidgordonlibertyblog.files.wordpress.com/2016/01/bear-soft-taco-sleeping-bags-lol.jpg" alt="Taco Bear Meme" class="rounded-circle pb-2" width="200" height="200">
 						<p class="border border-info fact-text">Every day is taco ipsum tuesday. Does guac cost extra? Pico de gallo,
 							on the side please. It’s taco time all the time. Burritos are very tasty. Tacos al pastor made with adobada meat.
-							Yeah, apparently the taco shack was robbed. They left the money but took the tacos. Tacos al pastor made with adobada
+							Yeah, apparently the taco shack was robbed. TACOS!! BARBACOA!! They left the money but took the tacos. Tacos al pastor made with adobada
 							meat. Give me all the tacos, immediately. Fish tacos: lettuce or cabbage, pico de gallo, avocado and a sour cream or
 							citrus/mayonnaise sauce, all placed on top of a corn or flour tortilla. CARNE ASADA!!</p>
 					</div>
@@ -78,8 +78,7 @@
 						<img src="https://pbs.twimg.com/profile_images/528635435413942272/MyKc1vpV.jpeg" alt="Taco Bear Meme" class="rounded-circle pb-2" width="200" height="200">
 						<p class="border border-dark fact-text">Every day is taco ipsum tuesday. Fish tacos with cabbage slaw and a
 							side of chips and guac. Tacos al pastor made with adobada meat. BARBACOA!! Shrimp tacos are tasty tacos!
-							Let’s do a beef and a chicken, and one with both. BARBACOA!! CARNITAS!! Josh’s taco shack is the best taco shack.
-							How do you feel about hard shelled tacos? Say taco one more time. Give me all the tacos, immediately. BARBACOA!!
+							Let’s do a beef and a chicken, and one with both. How do you feel about hard shelled tacos? Say taco one more time. Give me all the tacos, immediately. BARBACOA!!
 							TACOS!! Tacos al pastor made with adobada meat. You see, the refried beans are really just the adhesive necessary
 							to apply the soft tortilla to the hard taco shell.!</p>
 					</div>
@@ -96,7 +95,7 @@
 						<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzx3-n8f4u7rU8TXx3dG_m_0rSD7T04apSW3fut1iBT5YaRVgC" alt="Taco Bear Meme" class="rounded-circle pb-2" width="200" height="200">
 						<p class="border border-secondary fact-text">Every day is taco ipsum tuesday. Does guac cost extra? Pico de gallo,
 							on the side please. It’s taco time all the time. Burritos are very tasty. Tacos al pastor made with
-							adobada meat. Yeah, apparently the taco shack was robbed. They left the money but took the tacos. Tacos
+							adobada meat. Yeah, apparently the taco shack was robbed. How do you feel about onions and cilantro? They left the money but took the tacos. Tacos
 							al pastor made with adobada meat. Give me all the tacos, immediately. Fish tacos: lettuce or cabbage, pico
 							de gallo, avocado and a sour cream or citrus/mayonnaise sauce, all placed on top of a corn or flour tortilla.
 							CARNE ASADA!!</p>
