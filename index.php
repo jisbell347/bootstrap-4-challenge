@@ -43,6 +43,9 @@
 			</div>
 			<hr class="featurette-divider">
 			<div class="container">
+				<div class="row text-center">
+					<h2 class="col-md-12 pb-4">The Truth About Taco Bears</h2>
+				</div>
 				<div class="row">
 					<div class="col-md-4">
 						<img src="http://placebear.com/500/600" alt="Bear Image PlaceHolder" class="img-fluid rounded">
@@ -58,6 +61,9 @@
 			</div>
 			<hr class="featurette-divider">
 			<div class="container text-center">
+				<div class="row text-center">
+					<h2 class="col-md-12 pb-4">Little Known Facts</h2>
+				</div>
 				<div class="row">
 					<div class="col-lg-3">
 						<img src="https://kellidgordonlibertyblog.files.wordpress.com/2016/01/bear-soft-taco-sleeping-bags-lol.jpg" alt="Taco Bear Meme" class="rounded-circle pb-3" width="200" height="200">
