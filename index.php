@@ -5,8 +5,9 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<!-- Bootstrap CSS -->
-		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+		<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+		<link rel="stylesheet" href="css/style.css" type="text/css">
 		<!-- JQuery first, then Popper.js, then Bootstrap.js -->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
@@ -21,7 +22,7 @@
 				<span class="navbar-toggler-icon"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-				<div class="navbar-nav float-right">
+				<div class="navbar-nav ml-auto">
 					<a class="nav-item nav-link active" href="#"><img src="images/bear.png" alt="bear icon" /> <span class="sr-only">(current)</span></a>
 					<a class="nav-item nav-link" href="#"><img src="images/taco.png" alt="taco icon" /></a>
 					<a class="nav-item nav-link" href="#"><img src="images/open-book.png" alt="Open Book Icon"/></a>
@@ -39,14 +40,14 @@
 						<p class="mb-0">It is said that the greatest privilage a man can have is to own a taco bear.</p>
 						<footer class="blockquote-footer">Sir William T. Aco in <cite title="Source Title">Taco Bear: Myth or Legend?</cite></footer>
 					</blockquote>
-					<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+					<a class="btn btn-dark btn-lg" href="#" role="button">Learn more</a>
 				</div>
 			</div>
 			<hr class="featurette-divider">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-4">
-						<img src="http://placebear.com/g/500/400" alt="Bear Image PlaceHolder" class="img-fluid rounded">
+						<img src="http://placebear.com/500/600" alt="Bear Image PlaceHolder" class="img-fluid rounded">
 					</div>
 					<div class="col-md-8">
 						<p>Every day is taco ipsum tuesday. CARNITAS!! Tacos Al pastor/De Adobada are made of thin pork steaks seasoned with adobo seasoning, then skewered and overlapped on one another on a vertical rotisserie cooked and flame-broiled as it spins. You see, the refried beans are really just the adhesive necessary to apply the soft tortilla to the hard taco shell. Tacos dorados called flautas, or taquitos, for which the tortillas are filled with pre-cooked shredded chicken, beef or barbacoa, rolled into an elongated cylinder and deep-fried until crisp.</p>
