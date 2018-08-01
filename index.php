@@ -34,8 +34,6 @@
 			<div class="container">
 				<div class="jumbotron text-center">
 					<h1 class="display-4">Taco Bear!</h1>
-					<p class="lead">Space for sale. Contact us for more info about taco-eating kittens</p>
-					<hr class="my-4">
 					<blockquote class="blockquote">
 						<p class="mb-0">It is said that the greatest privilage a man can have is to own a taco bear.</p>
 						<footer class="blockquote-footer">Sir William T. Aco in <cite title="Source Title">Taco Bear: Myth or Legend?</cite></footer>
@@ -101,7 +99,7 @@
 		</main>
 		<footer class="footer mt-5">
 			<div class="container text-center">
-				<span class="text-muted">&copy; Taco Bear Sightings, LLC</span>
+				<span>&copy; Taco Bear Sightings, LLC</span>
 				<div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 			</div>
 		</footer>
