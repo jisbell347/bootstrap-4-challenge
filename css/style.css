@@ -28,7 +28,7 @@ Section divider
  */
 .feature-divider {
 	border: none;
-	margin: 5rem 0;
+	margin: 3rem 0;
 }
 .divider {
 	border-color: white;
@@ -67,4 +67,8 @@ Footer
 
 .footer span, a {
 	color: white;
+}
+
+.footer div:nth-child(2) {
+	font-size: .6rem;
 }
