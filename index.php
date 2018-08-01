@@ -29,13 +29,29 @@
 				</div>
 			</div>
 		</nav>
-		<main class="container">
-			<div class="jumbotron">
-				<h1 class="display-4">Hello, world!</h1>
-				<p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
-				<hr class="my-4">
-				<p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
-				<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+		<main>
+			<div class="container">
+				<div class="jumbotron">
+					<h1 class="display-4">Hello, world!</h1>
+					<p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+					<hr class="my-4">
+					<p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+					<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-2 float-left px-auto">
+						<img src="http://placebear.com/g/300/300" alt="Bear Image PlaceHolder" class="rounded-circle">
+					</div>
+					<div class="col-md-8 offset-md-2">
+						<p>Every day is taco ipsum tuesday. CARNITAS!! Tacos Al pastor/De Adobada are made of thin pork steaks seasoned with adobo seasoning, then skewered and overlapped on one another on a vertical rotisserie cooked and flame-broiled as it spins. You see, the refried beans are really just the adhesive necessary to apply the soft tortilla to the hard taco shell. Tacos dorados called flautas, or taquitos, for which the tortillas are filled with pre-cooked shredded chicken, beef or barbacoa, rolled into an elongated cylinder and deep-fried until crisp.</p>
+
+						<p>TACOS!! Side of rice and beans, please. It’s taco time all the time. Add in a few el Pastor with guac and diced onions. It’s taco time all the time. It’s a wonderful morning for breakfast tacos. Tacos, again? This will be 5 times this week and it’s only Tuesday. Black or pinto beans? Yeah, apparently the taco shack was robbed. They left the money but took the tacos. Make it a double there pal. How do you feel about hard shelled tacos? It’s raining tacos, from out of the sky, tacos, don’t even ask why. Give me all your tacos.</p>
+
+						<p>I’ve been following that taco truck around all day. It’s taco time all the time. Does guac cost extra? Fish tacos with cabbage slaw and a side of chips and guac. Tacos, again? This will be 5 times this week and it’s only Tuesday. I think I’ve overdosed on tacos. It’s taco Tuesday Monday. 50 cent tacos! I’ll take 30. TACOS!! I’ve been following that taco truck around all day.</p>
+					</div>
+				</div>
 			</div>
 		</main>
 	</body>
