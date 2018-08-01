@@ -16,6 +16,7 @@
 		<title>Bootstrap Challenge</title>
 	</head>
 	<body>
+		<!-- navigation elements -->
 		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 			<a class="navbar-brand" href="#">Taco Bear</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -30,7 +31,9 @@
 				</div>
 			</div>
 		</nav>
+		<!-- Main body of the page -->
 		<main>
+			<!-- Container for the jumbotron -->
 			<div class="container">
 				<div class="jumbotron text-center">
 					<h1 class="display-4">Taco Bear!</h1>
@@ -41,16 +44,20 @@
 					<a class="btn btn-dark btn-lg" href="#" role="button">Learn more</a>
 				</div>
 			</div>
+			<!-- Creates spacing between elements -->
 			<hr class="feature-divider">
+			<!-- Container for the truth section -->
 			<div class="container truth pb-4">
 				<div class="row text-center">
 					<h2 class="col-md-12 pb-2">The Truth About Taco Bears <img src="images/paw-print.png" alt="paw print icon"></h2>
 				</div>
 				<hr class="divider">
 				<div class="row">
+					<!-- Image container. Rounds and causes img to shrink based on container width -->
 					<div class="col-md-4">
 						<img src="http://placebear.com/500/490" alt="Bear Image PlaceHolder" class="img-fluid rounded">
 					</div>
+					<!-- truth text section -->
 					<div class="col-md-8">
 						<p>Every day is taco ipsum tuesday. CARNITAS!! Tacos Al pastor/De Adobada are made of thin pork steaks seasoned with adobo seasoning, then skewered and overlapped on one another on a vertical rotisserie cooked and flame-broiled as it spins. You see, the refried beans are really just the adhesive necessary to apply the soft tortilla to the hard taco shell. Tacos dorados called flautas, or taquitos, for which the tortillas are filled with pre-cooked shredded chicken, beef or barbacoa, rolled into an elongated cylinder and deep-fried until crisp.</p>
 
@@ -60,11 +67,14 @@
 					</div>
 				</div>
 			</div>
+			<!-- Divides the elements on the page -->
 			<hr class="feature-divider">
+			<!-- Container for the fact section -->
 			<div class="container text-center fact-section">
 				<div class="row text-center">
 					<h2 class="col-md-12 pb-4">Little Known Facts</h2>
 				</div>
+				<!-- Row of items. Lines them up horizontally on page -->
 				<div class="row align-items-baseline">
 					<div class="col-lg-3">
 						<img src="https://kellidgordonlibertyblog.files.wordpress.com/2016/01/bear-soft-taco-sleeping-bags-lol.jpg" alt="Taco Bear Meme" class="rounded-circle pb-2" width="200" height="200">
@@ -103,6 +113,7 @@
 				</div>
 			</div>
 		</main>
+		<!-- Footer Section -->
 		<footer class="footer mt-5">
 			<div class="container text-center">
 				<span>&copy; Taco Bear Sightings, LLC</span>
