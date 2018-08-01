@@ -42,12 +42,16 @@ Truth about taco bears section
 .truth {
 	background-color: #343434;
 	color: ghostwhite;
+	font-family: 'Caveat', cursive;
 }
 
 /*
 Facts section
  */
 
+.fact-section {
+	font-family: 'Kalam', cursive;
+}
 .fact-text {
 	background-color: #226c6c;
 	color: white;

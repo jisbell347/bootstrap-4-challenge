@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
-		<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Indie+Flower|Caveat|Kalam" rel="stylesheet">
 		<link rel="stylesheet" href="css/style.css" type="text/css">
 		<!-- JQuery first, then Popper.js, then Bootstrap.js -->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -42,14 +42,14 @@
 				</div>
 			</div>
 			<hr class="feature-divider">
-			<div class="container truth">
+			<div class="container truth pb-4">
 				<div class="row text-center">
 					<h2 class="col-md-12 pb-2">The Truth About Taco Bears <img src="images/paw-print.png" alt="paw print icon"></h2>
 				</div>
 				<hr class="divider">
 				<div class="row">
 					<div class="col-md-4">
-						<img src="http://placebear.com/500/600" alt="Bear Image PlaceHolder" class="img-fluid rounded">
+						<img src="http://placebear.com/500/490" alt="Bear Image PlaceHolder" class="img-fluid rounded">
 					</div>
 					<div class="col-md-8">
 						<p>Every day is taco ipsum tuesday. CARNITAS!! Tacos Al pastor/De Adobada are made of thin pork steaks seasoned with adobo seasoning, then skewered and overlapped on one another on a vertical rotisserie cooked and flame-broiled as it spins. You see, the refried beans are really just the adhesive necessary to apply the soft tortilla to the hard taco shell. Tacos dorados called flautas, or taquitos, for which the tortillas are filled with pre-cooked shredded chicken, beef or barbacoa, rolled into an elongated cylinder and deep-fried until crisp.</p>
@@ -61,7 +61,7 @@
 				</div>
 			</div>
 			<hr class="feature-divider">
-			<div class="container text-center">
+			<div class="container text-center fact-section">
 				<div class="row text-center">
 					<h2 class="col-md-12 pb-4">Little Known Facts</h2>
 				</div>
@@ -78,9 +78,9 @@
 						<img src="https://pbs.twimg.com/profile_images/528635435413942272/MyKc1vpV.jpeg" alt="Taco Bear Meme" class="rounded-circle pb-2" width="200" height="200">
 						<p class="border border-dark fact-text">Every day is taco ipsum tuesday. Fish tacos with cabbage slaw and a
 							side of chips and guac. Tacos al pastor made with adobada meat. BARBACOA!! Shrimp tacos are tasty tacos!
-							Let’s do a beef and a chicken, and one with both. BARBACOA!! CARNITAS!! Ooh, with diced onions and a pinch of cilantro.
-							Josh’s taco shack is the best taco shack. How do you feel about hard shelled tacos? Say taco one more time. Give me all the tacos,
-							immediately. BARBACOA!! TACOS!! Tacos al pastor made with adobada meat. You see, the refried beans are really just the adhesive necessary
+							Let’s do a beef and a chicken, and one with both. BARBACOA!! CARNITAS!! Josh’s taco shack is the best taco shack.
+							How do you feel about hard shelled tacos? Say taco one more time. Give me all the tacos, immediately. BARBACOA!!
+							TACOS!! Tacos al pastor made with adobada meat. You see, the refried beans are really just the adhesive necessary
 							to apply the soft tortilla to the hard taco shell.!</p>
 					</div>
 					<div class="col-lg-3">
