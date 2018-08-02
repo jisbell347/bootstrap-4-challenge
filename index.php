@@ -38,7 +38,7 @@
 				<div class="jumbotron text-center">
 					<h1 class="display-4">Taco Bear!</h1>
 					<blockquote class="blockquote">
-						<p class="mb-0">It is said that the greatest privilage a man can have is to own a taco bear.</p>
+						<p class="mb-0">It is said that the greatest privilege a man can have is to own a taco bear.</p>
 						<footer class="blockquote-footer">Sir William T. Aco in <cite title="Source Title">Taco Bear: Myth or Legend?</cite></footer>
 					</blockquote>
 					<a class="btn btn-dark btn-lg" href="#" role="button">Learn more</a>
