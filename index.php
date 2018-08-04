@@ -17,7 +17,7 @@
 	</head>
 	<body>
 		<!-- navigation elements -->
-		<nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-2">
+		<nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-3">
 			<a class="navbar-brand" href="#">Taco Bear</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
@@ -47,7 +47,7 @@
 			<!-- Creates spacing between elements -->
 			<hr class="feature-divider">
 			<!-- Container for the truth section -->
-			<div class="container truth pb-4">
+			<div class="container-fluid truth pb-4">
 				<div class="row text-center">
 					<h2 class="col-md-12 pb-2">The Truth About Taco Bears <img src="images/paw-print.png" alt="paw print icon"></h2>
 				</div>
